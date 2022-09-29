@@ -1,1 +1,12 @@
-
+# User Stories
+- As a **coach**, I want to see the sleeping data of all the athletes on the team so that I can see how sleep affects performance.
+- As a **coach**, I want to see the data from Hawkin Dynamics, firstbeat for heart rate data, and Ledsreact so that I can adjust the training intensity based on the fatigue level.  
+- As a **coach**, I want to see the injury status of athletes so that I can adjust the training plan. 
+- As a **coach**, I want to see the data of the whole team (in charts) and also each individual so that I can track the trends and adjust the training plans.
+- As a **coach**, I want specific variables (weight, jump height, braking RFD) to be automatically presentable
+- As a **coach**, I want to see the roster of all the athletes on the team in season so that I know who is on the team and can make training and competing plan accordingly.
+- As a **super admin**, I want to give or take the permission to coach or PEAK members so that I can monitor who has access to the data and protect student athletes’ personal data. 
+- As a **super admin**, I want to see all student-athletes data to track trends to inform the relevant people about injuries, wellbeing etc
+- As an **admin (PEAK members)**, I want to modify student-athlete data in my area so that I can give coaches an evaluation of their athlete/team.  
+- As a **super admin**, I want to have a checkbox to monitor (whatever data I want) before sending to (whoever I want to send to) → maybe similar to mailing lists with a label?
+- As a **(super) admin**, I want the data from sport science to be updated as quickly as possible.
